@@ -1,5 +1,8 @@
+package src.test.java;
+
 import org.junit.Assert;
 import org.junit.Test;
+import src.main.java.Program;
 
 public class Task1Test {
     @Test
